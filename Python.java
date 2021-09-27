@@ -1,3 +1,4 @@
+//To form two arrays of Keys and Values from a Python syntax for declaring a dictionary
 import java.util.*;
 class Python
 {
